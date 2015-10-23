@@ -1,3 +1,5 @@
+#http://www.ieee.org/membership_services/membership/students/awards/xtremesamples.html
+
 #Cosine simmilarities
 # not using any libraries, so ref http://mathforum.org/library/drmath/view/60704.html
 '''
