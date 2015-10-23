@@ -1,5 +1,5 @@
 #Cosine simmilarities
-
+# not using any libraries, so ref http://mathforum.org/library/drmath/view/60704.html
 '''
 Value rank: 40
 Simple matching, Jaccard, Tanimoto, and cosine similarities are statistics used for comparing the similarity and diversity of sample sets. They are used in data mining for tasks ranging from classifying diverse chemical compounds, to text processing and searching in large databases.
