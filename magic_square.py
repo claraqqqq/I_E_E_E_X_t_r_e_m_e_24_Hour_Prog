@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/magic-square
+
 #Magic Square
 
 '''
