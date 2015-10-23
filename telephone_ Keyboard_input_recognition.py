@@ -1,4 +1,6 @@
-#Telephone keyboard input recognition
+# #https://www.hackerrank.com/contests/ieeextreme-challenges/challenges/magic-square
+
+# Telephone keyboard input recognition
 
 '''
 Value rank: 60
